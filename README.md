@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**javierugarte/javierugarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Javier González
 
-Here are some ideas to get you started:
+### Mobile Lead Developer | iOS Expert
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-jugarte.es-CF8A05?style=for-the-badge&logo=safari&logoColor=white)](http://www.jugarte.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierugarte)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javierugarte)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierugarte91@gmail.com)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Mobile Lead Developer with **10+ years of experience** building iOS products and leading technical teams. Currently steering the **Global Mobile Architecture** at BBVA, connecting business needs with scalable, reliable solutions.
+
+I enjoy driving best practices, simplifying complex processes, and crafting user experiences that stand the test of time.
+
+---
+
+<div align="center">
+
+### 💡 Open to collaborations and interesting projects!
+
+*"Building mobile experiences that stand the test of time"*
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=javierugarte.javierugarte)](https://github.com/javierugarte)
+
+</div>
